@@ -1,2 +1,2 @@
-# rjs-video-player
-A responsive video player for built using reactjs
+# RJS Video Player
+A responsive video player built using reactjs
